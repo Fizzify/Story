@@ -1,1 +1,1 @@
-It was the age of programming, it was the age of coding.
+It was the age of JavaScript, it was the age of coding.
